@@ -4,7 +4,10 @@
   "description": "Curso asincronismo javascript",
   "main": "index.js",
   "scripts": {
-    "callback": "node src/callback/index.js"
+    "callback": "node src/callback/index.js",
+    "callback:challengue": "node src/callback/challengue.js",
+    "promise": "node src/promise/index.js",
+    "promise:challengue": "node src/promise/challengue.js"
   },
   "author": "",
   "license": "ISC",
