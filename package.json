@@ -7,7 +7,9 @@
     "callback": "node src/callback/index.js",
     "callback:challengue": "node src/callback/challengue.js",
     "promise": "node src/promise/index.js",
-    "promise:challengue": "node src/promise/challengue.js"
+    "promise:challengue": "node src/promise/challengue.js",
+    "async": "node src/async/index.js",
+    "async:challengue": "node src/async/challengue.js"
   },
   "author": "",
   "license": "ISC",
